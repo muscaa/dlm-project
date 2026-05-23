@@ -6,3 +6,6 @@
 # auto generated
 /src/lib/shared/paraglide/
 /src/routeTree.gen.ts
+
+# other
+/.github/
