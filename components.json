@@ -13,9 +13,9 @@
     "iconLibrary": "lucide",
     "aliases": {
         "components": "@/components",
-        "utils": "@shared/shadcn/lib/utils",
+        "utils": "@shared/shadcn/utils",
         "ui": "@/components/ui",
-        "lib": "@shared/shadcn/lib",
+        "lib": "@shared/shadcn",
         "hooks": "@client/shadcn/hooks"
     },
     "menuColor": "default",
