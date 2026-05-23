@@ -8,7 +8,7 @@
         "preview": "vite preview",
         "test": "vitest run",
         "lint": "eslint --flag unstable_ts_config",
-        "format": "prettier --write . && eslint --fix",
+        "format": "prettier --write . && eslint --flag unstable_ts_config --fix",
         "check": "prettier --check .",
         "db:generate": "drizzle-kit generate",
         "db:migrate": "drizzle-kit migrate",
