@@ -14,6 +14,6 @@ export default [
         },
     },
     {
-        ignores: ["eslint.config.ts", "prettier.config.ts"],
+        ignores: ["./src/lib/shared/paraglide/**"],
     },
 ] satisfies Linter.Config[];
