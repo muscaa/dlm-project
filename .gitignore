@@ -13,3 +13,4 @@ __unconfig*
 todos.json
 /.vscode
 /.cursorrules
+/src/routeTree.gen.ts
