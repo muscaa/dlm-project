@@ -12,7 +12,7 @@ export default defineConfig({
         devtools(),
         paraglideVitePlugin({
             project: "./project.inlang",
-            outdir: "./src/paraglide",
+            outdir: "./src/lib/shared/paraglide",
             strategy: ["url", "baseLocale"],
         }),
         nitro({ rollupConfig: { external: [/^@sentry\//] } }),

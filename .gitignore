@@ -20,6 +20,7 @@ package-lock.json
 /dist
 /dist-ssr
 /src/routeTree.gen.ts
+/project.inlang/cache/
 
 # production
 /.nitro
